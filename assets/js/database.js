@@ -39,7 +39,7 @@
           <small>${p.region} · ${p.area}</small><br>
           <div class="mt-1">${p.mineral.map(mineralBadge).join('')}</div>
           ${p.verified ? '<span style="color:green;font-weight:bold;">Verified</span>' : ''}<br>
-          <a href="projects/${fileName}.html" class="text-primary mt-1 d-inline-block">View Details →</a>
+          <a href="projects/${fileName.toLowerCase()}.html" class="text-primary mt-1 d-inline-block">View Details →</a>
         </div>
       `);
       markers.push(marker);
