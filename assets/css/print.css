@@ -1,0 +1,19 @@
+/* Общие стили для печати */
+          @media print {
+            /* скрыть кнопки, навбар, футер */
+            .no-print, footer, #accordionProjectInfo, #haveQuations, .page-title, .btn {
+              display: none !important;
+            }
+
+            /* убрать отступы страницы */
+            @page {
+              margin: 0%; /* можешь настроить поля */
+            }
+
+            /* задать шрифт и размер текста */
+            body {
+              font-family: Arial, sans-serif;
+              font-size: 12pt;
+              color: #000;
+            }
+          }

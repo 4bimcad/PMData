@@ -1,0 +1,45 @@
+    body { background-color: #f9f9f9; color: #344761; }
+    .option-card { 
+      cursor: pointer; 
+      border: 2px solid #e0e0e0; 
+      border-radius: 12px; 
+      padding: 20px; 
+      text-align: center; 
+      transition: 0.3s; 
+    }
+    .option-card.active { 
+      border-color: #5c99ee; 
+      background-color: #f0f7ff; 
+    }
+    .btn-custom { 
+      background-color: #5c99ee; 
+      color: white; 
+      border-radius: 8px; 
+    }
+    .btn-custom:hover { 
+      background-color: #344761; 
+      color: white; 
+    }
+    .accordion-button:not(.collapsed) { 
+      background-color: #5c99ee; 
+      color: white; 
+    }
+    .accordion-button { 
+      color: #344761; 
+      font-weight: 500; 
+    }
+    .custom-accordion-btn {
+      font-size: 1.25rem; /* 1rem = 16px → сделает примерно 20px */
+      font-weight: 600;   /* жирнее, если нужно */
+    }
+    .custom-accordion-btn-2 {
+      font-size: 1.25rem; /* 1rem = 16px → сделает примерно 20px */
+      font-weight: 300;   /* жирнее, если нужно */
+    }
+    #map {
+      height: 500px;
+    }
+
+    .leaflet-popup-content-wrapper {
+      border-radius: 14px;
+    }
