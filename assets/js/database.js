@@ -2,7 +2,7 @@
   // ==== SAMPLE DATA ====
   const PROJECTS = [
   {
-    "name": "Gold Project in Cusco PK",
+    "name": "Gold Project in Cusco PAN KOTSKYI",
     "mineral": [
       "Au"
     ],
@@ -14,7 +14,7 @@
     "verified": true
   },
   {
-    "name": "Gold Project in Madre de Dios M",
+    "name": "Gold Project in Madre de Dios MARUMI I",
     "mineral": [
       "Au"
     ],
@@ -26,7 +26,7 @@
     "verified": true
   },
   {
-    "name": "Gold Project in Madre de Dios DC",
+    "name": "Gold Project in Madre de Dios DON CARLO",
     "mineral": [
       "Au"
     ],
@@ -38,7 +38,7 @@
     "verified": true
   },
   {
-    "name": "Gold Project in Madre de Dios AL",
+    "name": "Gold Project in Madre de Dios ANA LUCIA IV",
     "mineral": [
       "Au"
     ],
@@ -50,7 +50,7 @@
     "verified": true
   },
   {
-    "name": "Gold Project in Madre de Dios NT",
+    "name": "Gold Project in Madre de Dios NUEVO TRIUNFO",
     "mineral": [
       "Au"
     ],
@@ -62,7 +62,7 @@
     "verified": true
   },
   {
-    "name": "Gold Project in Madre de Dios C",
+    "name": "Gold Project in Madre de Dios CRESPIN",
     "mineral": [
       "Au"
     ],
@@ -74,7 +74,7 @@
     "verified": true
   },
   {
-    "name": "Gold Project in Madre de Dios RG1",
+    "name": "Gold Project in Madre de Dios RONY GONZALO UNO",
     "mineral": [
       "Au"
     ],
@@ -86,7 +86,7 @@
     "verified": true
   },
   {
-    "name": "Gold Project in Madre de Dios O6",
+    "name": "Gold Project in Madre de Dios ORION 6",
     "mineral": [
       "Au"
     ],
@@ -95,6 +95,42 @@
     "lat": -12.483271,
     "lng": -69.174855,
     "area": "100.01 ha",
+    "verified": true
+  },
+  {
+    "name": "Gold Project in Madre de Dios KELY 1",
+    "mineral": [
+      "Au"
+    ],
+    "region": "Madre de Dios",
+    "status": "Active",
+    "lat": -12.4956356,
+    "lng": -69.2041942,
+    "area": "100 ha",
+    "verified": true
+  },
+  {
+    "name": "Gold Project in Madre de Dios KELY 1-A",
+    "mineral": [
+      "Au"
+    ],
+    "region": "Madre de Dios",
+    "status": "Active",
+    "lat": -12.4956286,
+    "lng": -69.2133962,
+    "area": "100 ha",
+    "verified": true
+  },
+  {
+    "name": "Gold Project in Madre de Dios GEDEON OTILIANO",
+    "mineral": [
+      "Au"
+    ],
+    "region": "Madre de Dios",
+    "status": "Active",
+    "lat": -12.5013445,
+    "lng": -69.1932741,
+    "area": "400 ha",
     "verified": true
   }
 ];
