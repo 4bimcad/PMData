@@ -24,6 +24,78 @@
     "lng": -68.9447903,
     "area": "400 ha",
     "verified": true
+  },
+  {
+    "name": "Gold Project in Madre de Dios DC",
+    "mineral": [
+      "Au"
+    ],
+    "region": "Madre de Dios",
+    "status": "Active",
+    "lat": -12.5375404,
+    "lng": -69.1564763,
+    "area": "100.01 ha",
+    "verified": true
+  },
+  {
+    "name": "Gold Project in Madre de Dios AL",
+    "mineral": [
+      "Au"
+    ],
+    "region": "Madre de Dios",
+    "status": "Active",
+    "lat": -12.5375349,
+    "lng": -69.1656867,
+    "area": "100 ha",
+    "verified": true
+  },
+  {
+    "name": "Gold Project in Madre de Dios NT",
+    "mineral": [
+      "Au"
+    ],
+    "region": "Madre de Dios",
+    "status": "Active",
+    "lat": -12.5918213,
+    "lng": -69.1104811,
+    "area": "100 ha",
+    "verified": true
+  },
+  {
+    "name": "Gold Project in Madre de Dios C",
+    "mineral": [
+      "Au"
+    ],
+    "region": "Madre de Dios",
+    "status": "Active",
+    "lat": -12.4742445,
+    "lng": -69.1472413,
+    "area": "200.01 ha",
+    "verified": true
+  },
+  {
+    "name": "Gold Project in Madre de Dios RG1",
+    "mineral": [
+      "Au"
+    ],
+    "region": "Madre de Dios",
+    "status": "Active",
+    "lat": -12.4832823,
+    "lng": -69.1564492,
+    "area": "200.01 ha",
+    "verified": true
+  },
+  {
+    "name": "Gold Project in Madre de Dios O6",
+    "mineral": [
+      "Au"
+    ],
+    "region": "Madre de Dios",
+    "status": "Active",
+    "lat": -12.483271,
+    "lng": -69.174855,
+    "area": "100.01 ha",
+    "verified": true
   }
 ];
 
