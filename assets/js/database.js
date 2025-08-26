@@ -12,6 +12,18 @@
     "lng": -70.3842483,
     "area": "100 ha",
     "verified": true
+  },
+  {
+    "name": "Gold Project in Madre de Dios M",
+    "mineral": [
+      "Au"
+    ],
+    "region": "Madre de Dios",
+    "status": "Active",
+    "lat": -12.4471497,
+    "lng": -68.9447903,
+    "area": "400 ha",
+    "verified": true
   }
 ];
 
