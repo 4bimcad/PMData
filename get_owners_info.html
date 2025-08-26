@@ -85,8 +85,196 @@
 
       <div class="container">
       
+    <!-- Main Content -->
+    <div class="container">
+        <ul class="nav nav-tabs mb-4" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="how-it-works-tab" data-bs-toggle="tab" data-bs-target="#how-it-works" type="button" role="tab">How It Works</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="what-you-get-tab" data-bs-toggle="tab" data-bs-target="#what-you-get" type="button" role="tab">What You Get</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pricing-tab" data-bs-toggle="tab" data-bs-target="#pricing" type="button" role="tab">Pricing & Policies</button>
+            </li>
+        </ul>
 
-        Text
+        <div class="tab-content" id="myTabContent">
+            <!-- How It Works Tab -->
+            <div class="tab-pane fade show active" id="how-it-works" role="tabpanel">
+                <h2 class="section-header">How it works (3 simple steps)</h2>
+                <div class="row g-4 mb-5">
+                    <div class="col-md-4">
+                        <div class="card step-card shadow-sm">
+                            <div class="card-body text-center">
+                                <div class="h1 text-primary mb-3">1</div>
+                                <h4 class="card-title">Tell us the project</h4>
+                                <p class="card-text">Use the <a href="contact.html">contact form</a> and enter the <strong>exact project name</strong>.</p>
+                                <p class="card-text text-muted">Alternative: copy and paste the link in the contact form to the project detail page from our site.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card step-card shadow-sm">
+                            <div class="card-body text-center">
+                                <div class="h1 text-primary mb-3">2</div>
+                                <h4 class="card-title">Pay USD $29 via PayPal</h4>
+                                <p class="card-text">Secure one-time payment. No subscription. One order = one project.</p>
+                                <p class="card-text text-muted">(Need several projects? Place multiple orders.)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card step-card shadow-sm">
+                            <div class="card-body text-center">
+                                <div class="h1 text-primary mb-3">3</div>
+                                <h4 class="card-title">Receive your PDF report</h4>
+                                <p class="card-text">After payment verification, our team compiles the report and sends it to the email you provided.</p>
+                                <p class="card-text text-muted">Typical delivery: within one business day (UTC-5).</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <h2 class="section-header">How we verify</h2>
+                <div class="alert alert-info">
+                    <p class="mb-0">We cross-check <strong>public registries</strong>, <strong>official publications</strong>, and <strong>industry directories</strong>, and when possible confirm details directly with the owner/operator. We never sell private data; we only compile <strong>publicly available information</strong> and present it in a structured way.</p>
+                </div>
+            </div>
+
+            <!-- What You Get Tab -->
+            <div class="tab-pane fade" id="what-you-get" role="tabpanel">
+                <h2 class="section-header">What you get (PDF report)</h2>
+                
+                <div class="row mb-2">
+                    <div class="col-md-6">
+                        <div class="d-flex mb-3">
+                            <i class="bi bi-file-text feature-icon"></i>&nbsp;
+                            <div>
+                                <h5>Project summary</h5>
+                                <p class="text-muted">Name, license type, status, area, location</p>
+                            </div>
+                        </div>
+                        <div class="d-flex mb-3">
+                            <i class="bi bi-upc-scan feature-icon"></i>&nbsp;
+                            <div>
+                                <h5>Official identifiers</h5>
+                                <p class="text-muted">Concession code and name</p>
+                            </div>
+                        </div>
+                        <div class="d-flex mb-3">
+                            <i class="bi bi-gem feature-icon"></i>&nbsp;
+                            <div>
+                                <h5>Minerals</h5>
+                                <p class="text-muted">Principal Metal(s) (Au, Ag, Cu, Zn, Pb, Fe, etc.)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="d-flex mb-3">
+                            <i class="bi bi-person-badge feature-icon"></i>&nbsp;
+                            <div>
+                                <h5>Owner / Holder</h5>
+                                <p class="text-muted">Person or company name with legal details</p>
+                            </div>
+                        </div>
+                        <div class="d-flex mb-3">
+                            <i class="bi bi-envelope feature-icon"></i>&nbsp;
+                            <div>
+                                <h5>Contacts</h5>
+                                <p class="text-muted">Email, phone, website, linkedIn profiles, address (Everything that will be available)</p>
+                            </div>
+                        </div>
+                        <div class="d-flex mb-3">
+                            <i class="bi bi-headset feature-icon"></i>&nbsp;
+                            <div>
+                                <h5>Support</h5>
+                                <p class="text-muted">Information support and explanations on the project</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card bg-light">
+                    <div class="card-body">
+                        <h5>Sample Report Excerpt</h5>
+                        <div class="bg-white p-3 border rounded">
+                            <p><strong>Project Name:</strong> San José Mine</p>
+                            <p><strong>Status:</strong> Active</p>
+                            <p><strong>Owner:</strong> Minera Santa Cruz S.A.</p>
+                            <p><strong>RUC:</strong> 20100047219</p>
+                            <p><strong>Primary Contact:</strong> jperez@minerasantacruz.com | +51 1 234-5678 | Address</p>
+                            <p><strong>Verification:</strong> Confirmed via MINEM registry</p>
+                            <p><strong>+ FREE INFO from Project Details page</p> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pricing & Policies Tab -->
+            <div class="tab-pane fade" id="pricing" role="tabpanel">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2 class="section-header">Price & payment</h2>
+                        <div class="card pricing-card shadow">
+                            <div class="card-body text-center py-5">
+                                <h3 class="card-title">USD $29</h3>
+                                <p class="card-text">per project</p>
+                                <div class="my-4">
+                                    <i class="bi bi-paypal display-4 text-primary"></i>
+                                </div>
+                                <p class="text-muted">Secure PayPal payment<br>Currency conversion handled by your bank/PayPal<br>Invoice available upon request</p>
+                            </div>
+                        </div>
+                        <a href="https://www.paypal.com/invoice/p/#KAH6DAD7GBAND3Z8" class="btn btn-primary mt-2 btn-lg w-100 d-block" target="_blank" >
+                          <i class="bi bi-paypal"></i>&nbsp; Pay with PayPal 
+                        </a>
+                    </div>
+                    <div class="col-md-6">
+                        <h2 class="section-header">Service policies</h2>
+                        
+                        <div class="card mb-3">
+                            <div class="card-body">
+                                <h5>Accuracy & scope</h5>
+                                <p class="card-text">Information is provided <strong>for informational purposes only</strong> and may change. This service is <strong>not a legal title opinion</strong> and does not replace technical/financial due diligence.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="card mb-3">
+                            <div class="card-body position-relative">
+                                <span class="guarantee-badge">Guarantee</span>
+                                <h5>No-contact guarantee</h5>
+                                <div class="">
+                                    <label class="form-check-label" for="optionA">
+                                        <strong>Option A:</strong> If no valid owner contact is found after verification, you receive a full refund.
+                                    </label>
+                                </div>
+                                <div class="">
+                                    <label class="form-check-label" for="optionB">
+                                        <strong>Option B:</strong> If no contact is found, we issue a credit for a different project.
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="card">
+                            <div class="card-body">
+                                <h5>Re-checks & updates</h5>
+                                <p class="card-text">Ownership and contacts can change. We offer <strong>paid updates</strong> on request.</p>
+                                
+                                <h5>Privacy & acceptable use</h5>
+                                <p class="card-text">We compile data from public sources for legitimate business interest. By purchasing, you agree <strong>not to spam</strong> or misuse the contacts.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+    </div>
+
       </div>
 
     </section><!-- /Starter Section Section -->
@@ -218,7 +406,6 @@
 
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
-  <script src="assets/js/script_benefits.js"></script>
 
 </body>
 
