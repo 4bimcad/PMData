@@ -6,7 +6,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "Cusco",
+    "region": "CUSCO",
     "status": "Active",
     "lat": -13.2030105,
     "lng": -70.3842483,
@@ -18,7 +18,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "Madre de Dios",
+    "region": "MADRE DE DIOS",
     "status": "Active",
     "lat": -12.4471497,
     "lng": -68.9447903,
@@ -30,7 +30,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "Madre de Dios",
+    "region": "MADRE DE DIOS",
     "status": "Active",
     "lat": -12.5375404,
     "lng": -69.1564763,
@@ -42,7 +42,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "Madre de Dios",
+    "region": "MADRE DE DIOS",
     "status": "Active",
     "lat": -12.5375349,
     "lng": -69.1656867,
@@ -54,7 +54,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "Madre de Dios",
+    "region": "MADRE DE DIOS",
     "status": "Active",
     "lat": -12.5918213,
     "lng": -69.1104811,
@@ -66,7 +66,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "Madre de Dios",
+    "region": "MADRE DE DIOS",
     "status": "Active",
     "lat": -12.4742445,
     "lng": -69.1472413,
@@ -78,7 +78,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "Madre de Dios",
+    "region": "MADRE DE DIOS",
     "status": "Active",
     "lat": -12.4832823,
     "lng": -69.1564492,
@@ -90,7 +90,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "Madre de Dios",
+    "region": "MADRE DE DIOS",
     "status": "Active",
     "lat": -12.483271,
     "lng": -69.174855,
@@ -102,7 +102,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "Madre de Dios",
+    "region": "MADRE DE DIOS",
     "status": "Active",
     "lat": -12.4956356,
     "lng": -69.2041942,
@@ -114,7 +114,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "Madre de Dios",
+    "region": "MADRE DE DIOS",
     "status": "Active",
     "lat": -12.4956286,
     "lng": -69.2133962,
@@ -126,7 +126,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "Madre de Dios",
+    "region": "MADRE DE DIOS",
     "status": "Active",
     "lat": -12.5013445,
     "lng": -69.1932741,
@@ -138,7 +138,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "CUSCO / PUNO",
+    "region": "CUSCO",
     "status": "Active",
     "lat": -13.814728623999995,
     "lng": -70.84100178800003,
@@ -223,7 +223,7 @@
     "mineral": [
       "Zn"
     ],
-    "region": "HUANCAVELICA / JUNIN",
+    "region": "HUANCAVELICA",
     "status": "Active",
     "lat": -11.995627019999972,
     "lng": -75.036956444,
@@ -389,7 +389,7 @@
     "verified": true
   },
   {
-    "name": "Gold Project in Cusco PUÃ‘O DE ORO",
+    "name": "Gold Project in Cusco PUÑO DE ORO",
     "mineral": [
       "Au",
       "Ag"
