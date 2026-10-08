@@ -6,7 +6,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "CUSCO",
+    "region": "Cusco",
     "status": "Active",
     "lat": -13.2030105,
     "lng": -70.3842483,
@@ -14,11 +14,38 @@
     "verified": true
   },
   {
+    "name": "LAWRENCE",
+    "mineral": [
+      "Au",
+      "Cu"
+    ],
+    "region": "Ayacucho",
+    "status": "Active",
+    "lat": null,
+    "lng": null,
+    "area": "1000 ha",
+    "verified": true
+  },
+  {
+    "name": "LEONARD3",
+    "mineral": [
+      "Au",
+      "Ag",
+      "Cu"
+    ],
+    "region": "Ayacucho",
+    "status": "Active",
+    "lat": null,
+    "lng": null,
+    "area": "1000 ha",
+    "verified": true
+  },
+  {
     "name": "Gold Project in Madre de Dios MARUMI I",
     "mineral": [
       "Au"
     ],
-    "region": "MADRE DE DIOS",
+    "region": "Madre de Dios",
     "status": "Active",
     "lat": -12.4471497,
     "lng": -68.9447903,
@@ -30,7 +57,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "MADRE DE DIOS",
+    "region": "Madre de Dios",
     "status": "Active",
     "lat": -12.5375404,
     "lng": -69.1564763,
@@ -42,7 +69,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "MADRE DE DIOS",
+    "region": "Madre de Dios",
     "status": "Active",
     "lat": -12.5375349,
     "lng": -69.1656867,
@@ -54,7 +81,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "MADRE DE DIOS",
+    "region": "Madre de Dios",
     "status": "Active",
     "lat": -12.5918213,
     "lng": -69.1104811,
@@ -66,7 +93,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "MADRE DE DIOS",
+    "region": "Madre de Dios",
     "status": "Active",
     "lat": -12.4742445,
     "lng": -69.1472413,
@@ -78,7 +105,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "MADRE DE DIOS",
+    "region": "Madre de Dios",
     "status": "Active",
     "lat": -12.4832823,
     "lng": -69.1564492,
@@ -90,7 +117,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "MADRE DE DIOS",
+    "region": "Madre de Dios",
     "status": "Active",
     "lat": -12.483271,
     "lng": -69.174855,
@@ -102,7 +129,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "MADRE DE DIOS",
+    "region": "Madre de Dios",
     "status": "Active",
     "lat": -12.4956356,
     "lng": -69.2041942,
@@ -114,7 +141,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "MADRE DE DIOS",
+    "region": "Madre de Dios",
     "status": "Active",
     "lat": -12.4956286,
     "lng": -69.2133962,
@@ -126,7 +153,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "MADRE DE DIOS",
+    "region": "Madre de Dios",
     "status": "Active",
     "lat": -12.5013445,
     "lng": -69.1932741,
@@ -138,7 +165,7 @@
     "mineral": [
       "Au"
     ],
-    "region": "CUSCO",
+    "region": "CUSCO / PUNO",
     "status": "Active",
     "lat": -13.814728623999995,
     "lng": -70.84100178800003,
@@ -223,7 +250,7 @@
     "mineral": [
       "Zn"
     ],
-    "region": "HUANCAVELICA",
+    "region": "HUANCAVELICA / JUNIN",
     "status": "Active",
     "lat": -11.995627019999972,
     "lng": -75.036956444,
@@ -389,7 +416,7 @@
     "verified": true
   },
   {
-    "name": "Gold Project in Cusco PUÑO DE ORO",
+    "name": "Gold Project in Cusco PUÃ‘O DE ORO",
     "mineral": [
       "Au",
       "Ag"
